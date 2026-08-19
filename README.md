@@ -1,11 +1,11 @@
-# Hi, I'm Luis
+# Hi, I'm Luis 👋
 
-Chilean, based in San Francisco. Software engineer at Mediastream, working on a
-live and on-demand video platform.
+🇨🇱 &nbsp;Chilean, based in San Francisco
 
-Also engineering lead at INIT, a nonprofit opening tech careers to underserved
-communities.
+---
 
-Most of what I build is private or lives in company repos.
+🎥 &nbsp;Software engineer at **Mediastream**
 
-US permanent resident. Spanish and English.
+🌱 &nbsp;Engineering lead at **INIT**, a nonprofit opening tech careers to underserved communities
+
+🔒 &nbsp;Most of what I build is private or lives in company repos
